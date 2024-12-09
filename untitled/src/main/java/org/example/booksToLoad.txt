@@ -1,0 +1,20 @@
+The Great Adventure,John Smith,320,FICTION
+Mysteries of the Past,Helen Carter,250,MYSTERY
+A Day in the Desert,James Wyatt,199,NON_FICTION
+The Galaxy Warriors,Elaine Parker,450,SCIENCE_FICTION
+Legends of the Forest,Robert Green,360,FANTASY
+Understanding Quantum Physics,Dr. Mary Land,550,NON_FICTION
+The Lost Pharaoh,Anne Brown,310,MYSTERY
+Falling Leaves,David Grey,275,FICTION
+The Castle in the Sky,Nina Blackwood,400,FANTASY
+Biography of Einstein,Frank Lewis,600,BIOGRAPHY
+Chasing the Horizon,Sophie Turner,410,FICTION
+The Secret Code,Alan Turington,290,MYSTERY
+Gardens of the Mind,Irene Flores,220,NON_FICTION
+Journey to Andromeda,Trevor Miles,530,SCIENCE_FICTION
+Whispering Shadows,Margaret Holt,340,FICTION
+Dragon's Lair,Patricia Svenson,380,FANTASY
+Wonders of the World,Bernard King,450,NON_FICTION
+Van Gogh: A Life,Lucille Young,310,BIOGRAPHY
+The Disappearing Act,Willis Moore,265,MYSTERY
+Planetary Dreams,Carl Novak,470,SCIENCE_FICTION
